@@ -12,14 +12,14 @@ There are three ways to use this Software.
 - Animation Mode
 - Interactive Mode
 
-You swithc between different modes in: "/FractalRecursion/FractalRecursion/sketch.js"
+You switch between different modes in: "/FractalRecursion/FractalRecursion/sketch.js"
 
 ## Manual Mode
 
 - Set 'animate' to 0
 - Set 'mouseMove' to 0
 - Start chnging the 'angle' value to get different Fractals
-- Bonus: Cool angle Values: 20 = Flower / 45 = Grid / 60 = Snowflake / 90 = Funky / 120 = Sirpinski Triangle
+- **Bonus** Cool angle Values: 20 = Flower / 45 = Grid / 60 = Snowflake / 90 = Funky / 120 = Sirpinski Triangle
 
 ![Sirpinski](https://github.com/johnnyawesome/FractalRecursion/blob/master/FractalRecursion/DemoImg/FractalRecursion.jpg)
 
