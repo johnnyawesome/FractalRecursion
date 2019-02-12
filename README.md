@@ -8,9 +8,9 @@ A beautiful, interactive Fractal:
 
 There are three ways to use this Software.
 
-- Manual Mode
-- Animation Mode
-- Interactive Mode
+- ### Manual Mode
+- ### Animation Mode
+- ### Interactive Mode
 
 You switch between different modes in: "/FractalRecursion/FractalRecursion/sketch.js"
 
