@@ -38,3 +38,9 @@ You switch between different modes in: "/FractalRecursion/FractalRecursion/sketc
 - Save, and move the Mouse to make your own Fractal!
 - Move the mouse to the right to change the angle
 - Move the mouse down to change the length of the elements
+
+
+
+## More Information
+
+[I blogged about this project in more detail](https://breaksome.tech/creating-an-interactive-fractal-in-p5js/)
